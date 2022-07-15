@@ -1,7 +1,22 @@
 # Dynamic Programming
-## Memoization problems solved
-- fib memoization
-- gridTraveler memoization
-- canSum memoization
-- howSum memoization
-- bestSum memoization
+### Recursive problems solved
+- fibonacci
+- gridTraveler
+- canSum
+- howSum
+- bestSum
+- canConstruct
+- countConstruct
+- allConstruct
+
+### Memoization problems solved
+- fibonacci
+- gridTraveler
+- canSum
+- howSum
+- bestSum
+- canConstruct
+- countConstruct
+- allConstruct
+
+### Tabulation problems solved
